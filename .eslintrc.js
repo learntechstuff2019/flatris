@@ -28,6 +28,7 @@ module.exports = {
   rules: {
     'no-console': 'off',
     'flowtype/generic-spacing': 'off',
+    'no-unused-vars': 'off'
   },
   overrides: [
     {
